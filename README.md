@@ -4,7 +4,7 @@ New Status Saver 2020 app helps to save WhatsApp status into gallery 😍
 ## Features
   1. View WhatsApp statuses  upload by your friends
   2. Save your frinds picture and video statuses into the gallery
-  3. WhatsApp Direct chat without saving number in the contacts
+  3. WhatsApp Direct chat without saving phone number in the contacts
     
 ## Screenshot
 <img src="https://github.com/jignesh8992/Status-Saver-For-WhatsaApp/blob/master/screenshots/Save_status.png" width="250"/>  <img src="https://github.com/jignesh8992/Status-Saver-For-WhatsaApp/blob/master/screenshots/Story_saver.png" width="250"/>  <img src="https://github.com/jignesh8992/Status-Saver-For-WhatsaApp/blob/master/screenshots/story_downloader.png" width="250"/>
