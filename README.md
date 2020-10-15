@@ -10,7 +10,9 @@ New Status Saver 2020 app helps to save WhatsApp status into gallery 😍
 <img src="https://github.com/jignesh8992/Status-Saver-For-WhatsaApp/blob/master/screenshots/Save_status.png" width="250"/>  <img src="https://github.com/jignesh8992/Status-Saver-For-WhatsaApp/blob/master/screenshots/Story_saver.png" width="250"/>  <img src="https://github.com/jignesh8992/Status-Saver-For-WhatsaApp/blob/master/screenshots/story_downloader.png" width="250"/>
  
 ## How to Install
-[Download APK from here](https://play.google.com/store/apps/details?id=com.status.story.saver.downloader.free) is available for simplified installation on Google Play Store.
+[Status Saver](https://play.google.com/store/apps/details?id=com.status.story.saver.downloader.free) is available for simplified installation on Google Play Store.
+
+[!(https://github.com/jignesh8992/Battery-Information/blob/master/social/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.status.story.saver.downloader.free)
 
 Disclaimer: Google Play version is ad-supported.
 
