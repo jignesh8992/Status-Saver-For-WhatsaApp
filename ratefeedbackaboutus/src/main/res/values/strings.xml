@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">AppRating</string>
+    <string name="feedback_mail_id">risingdeveloper8992@gmail.com</string>
+    <string name="file_name_device_info" translatable="false">deviceInf.txt</string>
+    <string name="file_name_device_log" translatable="false">deviceLog.txt</string>
+    <string name="feedback_mail_subject">Feedback of %1$s</string>
+    <string name="cancel">Cancel</string>
+    <string name="Ok">OK</string>
+
+
+    <!--Easy Feedback-->
+    <string name="your_input">Write your feedback</string>
+    <string name="send_feedback">Send</string>
+    <string name="from" translatable="false">From:</string>
+    <string name="please_write">Please write something.</string>
+    <string name="send_feedback_two">Send Feedback</string>
+    <string name="feedback">Feedback</string>
+    <string name="select_image">+ Add Screenshot</string>
+    <string name="click_again">Click again to change the image</string>
+    <string name="select_image_cancel">Image selection cancelled</string>
+    <string name="select_picture_title">Select Picture</string>
+    <string name="ok">OK</string>
+    <string name="system_info">System Info</string>
+    <string name="info_fedback_legal_start">"Your "</string>
+    <string name="info_fedback_legal_system_info">System Information</string>
+    <string name="info_fedback_legal_and">" and "</string>
+    <string name="info_fedback_legal_log_data">Log Data</string>
+    <string name="info_fedback_legal_will_be_sent">  will be sent to %s App</string>
+    <string name="space">" "</string>
+
+
+    <!--About Us-->
+  <!--  <string name="about_page_description" translatable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vehicula ligula tortor, in pellentesque dui congue ac. Vestibulum lacinia urna magna, quis cursus ante iaculis nec. Nunc ut ligula sit amet odio ultrices euismod vel vel purus. Sed lacus mauris, aliquam et placerat id</string>-->
+    <string name="about_us">About us</string>
+    <string name="about_contact_us">Contact us</string>
+    <string name="about_instagram">Follow us on Instagram</string>
+    <string name="about_facebook">Like us on Facebook</string>
+    <string name="about_play_store">Rate us on the Google Play Store</string>
+    <string name="about_youtube">Watch us on Youtube</string>
+    <string name="about_twitter">Follow us on Twitter</string>
+    <string name="about_github">Fork us on GitHub</string>
+    <string name="about_website">Visit our website</string>
+    <string name="copy_right" translatable="false">Copyrights © %1$d</string>
+
+
+
+    <string name="about_page_description" translatable="false">
+       Rising Developer is a well-established IT Company in Navsari, Gujarat, INDIA.
+       \n\nOur company develops mobile applications like Android Development, iOS Development and Web Design, Web Development, SEO
+        Optimization, Logo Design, etc for clients all over the world.
+    </string>
+
+
+
+
+</resources>

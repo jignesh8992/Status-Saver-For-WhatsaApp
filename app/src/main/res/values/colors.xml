@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0b6cc1</color>
+    <color name="colorPrimaryDark">#084E8C</color>
+    <color name="colorAccent">#2CAEF9</color>
+
+    <color name="text">#70A3C5</color>
+    <color name="success">#388E3C</color>
+    <color name="warning">#FFA900</color>
+    <color name="error">#D50000</color>
+
+
+    <color name="red">#ffff0000</color>
+    <!-- Fully transparent, equivalent to 0x00000000 -->
+    <color name="transparent">#00000000</color>
+
+    <color name="tab_unselectd">#A5BED3</color>
+
+    <!-- ToDo.. WHITE -->
+    <color name="white">#FFFFFF</color>
+
+    <!-- ToDo.. TRANSPARENT WHITE -->
+
+
+    <!-- ToDo.. BLACK -->
+    <color name="black">#000000</color>
+
+
+    <color name="starColor">#45b9ad</color>
+    <color name="noteDescriptionTextColor">#45b9ad</color>
+    <color name="titleTextColor">#FFFFFF</color>
+    <color name="descriptionTextColor">#A6FFFFFF</color>
+    <color name="commentTextColor">#4F93E3</color>
+    <color name="hintTextColor">#80000000</color>
+    <color name="light">#E2EBF0</color>
+    <color name="star2">#FFC41A</color>
+
+
+    <!-- ToDo.. FALCON -->
+    <color name="tab_selected">#00FFF6</color>
+    <color name="transparent_top_bg">#7f000000</color>
+
+
+    <!-- ToDo.. Shadow -->
+    <color name="shadow_view_foreground_color_light">#33ffffff</color>
+    <color name="shadow_view_default_shadow_color">#DCDDE0</color>
+    <color name="shadow_view_foreground_color_dark">#1f000000</color>
+
+
+</resources>

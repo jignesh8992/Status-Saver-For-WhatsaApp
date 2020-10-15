@@ -1,0 +1,2 @@
+include ':daliynotification'
+include ':app', ':jndroid', ':appupdater', ':ratefeedbackaboutus', ':ccp'

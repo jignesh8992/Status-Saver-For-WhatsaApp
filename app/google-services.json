@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "544110715792",
+    "firebase_url": "https://new-status-saver-fb2eb.firebaseio.com",
+    "project_id": "new-status-saver-fb2eb",
+    "storage_bucket": "new-status-saver-fb2eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544110715792:android:5641312a840926a4c98915",
+        "android_client_info": {
+          "package_name": "com.status.story.saver.downloader.free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544110715792-cg451nl5if0oa5s97dh6d8dd0h9o9h5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHLV5H-I-x-xAWHhIV5Vwmm3FefZsDN5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544110715792-cg451nl5if0oa5s97dh6d8dd0h9o9h5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

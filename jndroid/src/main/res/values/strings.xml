@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Jndroid Library</string>
+
+
+    <!--TODO: Dialog buttons-->
+    <string name="dialog_yes">YES</string>
+    <string name="dialog_no">NO</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">CANCEL</string>
+
+    <string name="dialog_confirmation">Are you sure want to delete this status?</string>
+
+    <!--TODO: Rate dialog-->
+    <string name="rate_dialog_message">If you enjoy using this app, would you mind taking a moment to rate it? It won\'t take more than a minute. Thank you for your support!</string>
+
+    <!--TODO: Permission dialog-->
+    <string name="req_permission_msg">Please allow read storage permission for retrieve whatsapp statuses</string>
+    <string name="req_permission_title">Permissions Required</string>
+    <string name="dialog_title_warning">Warning</string>
+    <string name="dialog_title_rate_app">Rate this app</string>
+    <string name="dialog_rate_now">RATE NOW</string>
+    <string name="dialog_exit">EXIT</string>
+    <string name="dialog_already_rate">ALREADY RATED</string>
+    <string name="dialog_title_ads">Ads</string>
+    <string name="dialog_more">You will be redirect to the Google Play Store.</string>
+    <string name="developer_name">Rising Developer</string>
+    <string name="loading">Loading…</string>
+    <string name="error">error!</string>
+
+
+</resources>

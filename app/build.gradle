@@ -1,0 +1,83 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-android'
+
+apply plugin: 'com.google.gms.google-services'
+// Apply the Crashlytics Gradle plugin
+apply plugin: 'com.google.firebase.crashlytics'
+
+
+android {
+    compileSdkVersion 30
+    defaultConfig {
+        applicationId "com.status.story.saver.downloader.free"
+        minSdkVersion 16
+        targetSdkVersion 30
+        multiDexEnabled true
+        versionCode 29
+        versionName "3.9"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        resConfigs "en"
+
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'com.google.android.material:material:1.1.0'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    // Base module
+    implementation project(':jndroid')
+    // Glide for image loading
+    implementation 'com.github.bumptech.glide:glide:4.11.0'
+    implementation 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
+    // For Rounded ImageView
+    implementation 'com.makeramen:roundedimageview:2.3.0'
+    // Fancy Loader
+    implementation 'com.github.ybq:Android-SpinKit:1.4.0'
+
+
+
+    // Google Ads, Crashlytics, Analytics
+    implementation 'com.google.android.gms:play-services-ads:19.2.0'
+
+
+
+    implementation 'com.facebook.android:audience-network-sdk:5.8.0'
+
+    // Huawei Error
+    implementation 'com.llew.huawei:verifier:1.1.1'
+
+    // App Updater
+    implementation project(path: ':appupdater')
+
+    //Country Code Picker
+    implementation project(path: ':ccp')
+
+    implementation 'androidx.core:core-ktx:1.3.0'
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+
+    implementation project(path: ':ratefeedbackaboutus')
+
+    implementation 'com.google.firebase:firebase-analytics:17.4.4'
+    // Add the Firebase Crashlytics SDK.
+    implementation 'com.google.firebase:firebase-crashlytics:17.1.1'
+    implementation project(path: ':daliynotification')
+
+    // Kotlin Co-routines
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.3.3"
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.3"
+
+    implementation 'com.android.billingclient:billing-ktx:3.0.0'
+
+}

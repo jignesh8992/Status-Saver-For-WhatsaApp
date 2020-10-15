@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.daliynotification"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->E:\SELF\StatusSaver\StatusSaver\daliynotification\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->E:\SELF\StatusSaver\StatusSaver\daliynotification\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+11-->E:\SELF\StatusSaver\StatusSaver\daliynotification\src\main\AndroidManifest.xml:3:5-80
+11-->E:\SELF\StatusSaver\StatusSaver\daliynotification\src\main\AndroidManifest.xml:3:22-78
+12
+13    <application>
+13-->E:\SELF\StatusSaver\StatusSaver\daliynotification\src\main\AndroidManifest.xml:4:5-20:19
+14        <service
+14-->E:\SELF\StatusSaver\StatusSaver\daliynotification\src\main\AndroidManifest.xml:7:9-13:19
+15            android:name="com.example.daliynotification.NotificationJobService"
+15-->E:\SELF\StatusSaver\StatusSaver\daliynotification\src\main\AndroidManifest.xml:8:13-51
+16            android:exported="false" >
+16-->E:\SELF\StatusSaver\StatusSaver\daliynotification\src\main\AndroidManifest.xml:9:13-37
+17            <intent-filter>
+17-->E:\SELF\StatusSaver\StatusSaver\daliynotification\src\main\AndroidManifest.xml:10:13-12:29
+18                <action android:name="com.firebase.jobdispatcher.ACTION_EXECUTE" />
+18-->E:\SELF\StatusSaver\StatusSaver\daliynotification\src\main\AndroidManifest.xml:11:17-84
+18-->E:\SELF\StatusSaver\StatusSaver\daliynotification\src\main\AndroidManifest.xml:11:25-81
+19            </intent-filter>
+20        </service>
+21
+22        <receiver android:name="com.example.daliynotification.MyBootReceiver" >
+22-->E:\SELF\StatusSaver\StatusSaver\daliynotification\src\main\AndroidManifest.xml:15:9-19:20
+22-->E:\SELF\StatusSaver\StatusSaver\daliynotification\src\main\AndroidManifest.xml:15:19-49
+23            <intent-filter>
+23-->E:\SELF\StatusSaver\StatusSaver\daliynotification\src\main\AndroidManifest.xml:16:13-18:29
+24                <action android:name="android.intent.action.BOOT_COMPLETED" />
+24-->E:\SELF\StatusSaver\StatusSaver\daliynotification\src\main\AndroidManifest.xml:17:17-78
+24-->E:\SELF\StatusSaver\StatusSaver\daliynotification\src\main\AndroidManifest.xml:17:25-76
+25            </intent-filter>
+26        </receiver>
+27    </application>
+28
+29</manifest>

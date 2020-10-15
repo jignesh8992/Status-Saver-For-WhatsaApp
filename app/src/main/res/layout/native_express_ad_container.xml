@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/ad_card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    app:cardCornerRadius="0dp"
+    app:cardElevation="0dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <FrameLayout android:id="@+id/ad_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView android:id="@+id/text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ad is loading..."
+                android:textColor="@android:color/holo_red_dark"/>
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/margin_bottom"
+            android:layout_width="match_parent"
+            android:layout_height="8dp"
+            android:background="@android:color/holo_red_dark"/>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Status Saver</string>
+    <string name="whatsapp_video">Videos</string>
+    <string name="whatsapp_photo">Photos</string>
+    <string name="notification_msg">Do you want to save your WhatsApp status? Save it before disappear.</string>
+
+    <!-- TODO: Facebook Analytics-->
+    <!-- <string name="facebook_app_id">2217447865237803</string>
+     <string name="fb_login_protocol_scheme">fb2217447865237803</string>-->
+
+    <!-- TODO: Admob Ads ID -->
+    <!-- Test ID-->
+   <!--  <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+      <string name="banner_ad_id">ca-app-pub-3940256099942544/6300978111</string>
+      <string name="interstitial_ad_id">ca-app-pub-3940256099942544/1033173712</string>
+      <string name="native_ad_id">ca-app-pub-3940256099942544/2247696110</string>-->
+
+
+    <!-- Live ID-->
+    <string name="admob_app_id">ca-app-pub-2122414598895708~6652283678</string>
+    <string name="banner_ad_id">ca-app-pub-2122414598895708/2361049275</string>
+    <string name="interstitial_ad_id">ca-app-pub-2122414598895708/3528513487</string>
+    <string name="native_ad_id">ca-app-pub-2122414598895708/6893043427</string>
+
+    <string name="banner_placement_id">418741942048564_418772615378830</string>
+    <string name="interstitial_placement_id">418741942048564_418752525380839</string>
+    <string name="native_banner_placement_id">418741942048564_419903815265710</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="preview">Preview</string>
+    <string name="del_img">Image deleted successfully..</string>
+    <string name="del_video">Video deleted successfully..</string>
+    <string name="save_img">Status Image Saved successfully..</string>D
+    <string name="save_video">Status Video Saved successfully..</string>D
+    <string name="no_photo">WhatsApp status photos not found.</string>
+    <string name="no_video">WhatsApp status videos not found.</string>
+    <string name="no_saved_photo">Saved WhatsApp photos not found.</string>
+    <string name="no_saved_video">Saved WhatsApp videos not found.</string>
+    <string name="status_exist">Status already saved..</string>
+    <string name="whatsapp_status">WhatsApp Statuses</string>
+    <string name="saved_whatsapp_status">Saved Statuses</string>
+    <string name="went_wrong">Something Went Wrong..</string>
+    <string name="how_to_use">How To Use App?</string>
+    <string name="how_to_use_status_saver_title">How to use Status Saver?</string>
+    <string name="how_to_use_status_saver">
+        <![CDATA[
+        <p>1. Check the recently uploaded status by your friends on WhatsApp.</p>
+        <p>2. Open Status Saver app and Select START tab from home page.</p>
+        <p>3. Select PHOTOS or VIDEOS tab.</p>
+        <p>4. Click on photo or video status for full screen preview.</p>
+        <p>5. On top of the screen click on Repost, Share or Download button.</p>
+        <p>6. Once you click on  Download button your status will be save in your phone storage(Inside \"Status Saver\" folder).</p>
+        <p>7. Now if you want to Repost, Share or Delete status then you will make it happen from SAVED tab.</p>
+        ]]>
+    </string>
+    <string name="invalid_format">Invalid file format</string>
+
+
+    <!-- WhatsApp Direct chat-->
+    <string name="phone_number_input">Choose country code and enter number with your message and send</string>
+    <string name="enter_number_hint">Enter phone number here</string>
+    <string name="button_text">Send Message</string>
+    <string name="buttonsave_text">Save Contact</string>
+    <string name="whtas_direct">WhatsApp Direct Chat</string>
+    <string name="phone_number_info"><![CDATA[Choose country code & enter number with your message and send]]></string>
+    <string name="enter_message_hint">Type Message...</string>
+    <string name="empty_number">Empty number</string>
+    <string name="enter_number">Please enter phone number</string>
+    <string name="update_whatsapp">Please install latest update for WhatsApp to begin</string>
+    <string name="text_error">Error while encoding your text message</string>
+    <string name="how_to_use_whatsapp_direct_title">How to WhatsApp Direct?</string>
+    <string name="how_to_use_whatsapp_direct">
+        <![CDATA[
+        <p>Many times you wish to message in WhatsApp to unknown number whose number you don\'t want to save, Our App is place where you can directly send message to those numbers without saving.</p>
+        <p>1. Choose country code</p>
+        <p>2. Type number</p>
+        <p>3. Type message</p>
+        <p>4. Click on Send Message button to send message on WhatsApp.</p>
+        ]]>
+    </string>
+    <string name="settings">Settings</string>
+    <string name="more_apps">More Apps</string>
+    <string name="privacypolicy">Privacy Policy</string>
+
+
+</resources>
