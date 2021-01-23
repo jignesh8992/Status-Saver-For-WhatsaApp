@@ -1,5 +1,5 @@
 # Status-Saver-For-WhatsaApp
-New Status Saver 2020 app helps to save WhatsApp status into gallery 😍
+New Status Saver 2021 app helps to save WhatsApp status into gallery 😍
 
 ## Features
   1. View WhatsApp statuses  upload by your friends
@@ -17,7 +17,7 @@ New Status Saver 2020 app helps to save WhatsApp status into gallery 😍
 **Disclaimer:** Google Play version is ad-supported.
 
 ## Contributing
-Feel free to contribute code to Battery-Information. You can do it by forking the repository via Github and sending pull request with changes.
+Feel free to contribute code to Status-Saver-For-WhatsaApp. You can do it by forking the repository via Github and sending pull request with changes.
 
 When submitting code, please make every effort to follow existing conventions and style in order to keep the code as readable as possible. Also be sure that all tests are passing.
  
